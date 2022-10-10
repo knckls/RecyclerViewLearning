@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerViewLearning</string>
+    <string name="button_add">Add flag</string>
+</resources>

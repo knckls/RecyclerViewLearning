@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="countries">
+        <item>Australia</item>
+        <item>Azerbaijan</item>
+        <item>Brazil</item>
+        <item>Georgia</item>
+        <item>India</item>
+        <item>Kazakhstan</item>
+        <item>Netherlands</item>
+        <item>Russia</item>
+        <item>Singapore</item>
+        <item>South Korea</item>
+        <item>Unites Arab Emirates</item>
+        <item>Unites States</item>
+    </string-array>
+</resources>
